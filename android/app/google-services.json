@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "899791321976",
+    "project_id": "rn-chat-app-c9a24",
+    "storage_bucket": "rn-chat-app-c9a24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899791321976:android:6f459cb0684b51a358268d",
+        "android_client_info": {
+          "package_name": "com.rnchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899791321976-89g310bh9t55q5v7j7ftc49mnic5sbcc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rnchatapp",
+            "certificate_hash": "c7f05456563d0b001a128f56eee2deff549ff479"
+          }
+        },
+        {
+          "client_id": "899791321976-coa805jheu6fm984hbd5917vfl4o4ehh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKYBa3n5oy7kf7CeaVRMTikEEIyYSpP7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899791321976-coa805jheu6fm984hbd5917vfl4o4ehh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
